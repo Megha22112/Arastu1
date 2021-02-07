@@ -7,13 +7,13 @@
 <script>
   // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyAx1evtGuzzm4ykyUQwVkswVI1lrU3s8MU",
-    authDomain: "carracinggame-1f2b6.firebaseapp.com",
-    databaseURL: "https://carracinggame-1f2b6-default-rtdb.firebaseio.com",
-    projectId: "carracinggame-1f2b6",
-    storageBucket: "carracinggame-1f2b6.appspot.com",
-    messagingSenderId: "842418148952",
-    appId: "1:842418148952:web:d9c830527070dd62055c2d"
+    apiKey: "AIzaSyCLHImkAgKTq2DRZI3ob841jOiUTwZdW6Q",
+    authDomain: "carracing1-e00cf.firebaseapp.com",
+    databaseURL: "https://carracing1-e00cf-default-rtdb.firebaseio.com",
+    projectId: "carracing1-e00cf",
+    storageBucket: "carracing1-e00cf.appspot.com",
+    messagingSenderId: "286365076058",
+    appId: "1:286365076058:web:abdcbbb844d3656493e663"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
